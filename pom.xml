@@ -5,7 +5,7 @@
     <artifactId>projectRnD</artifactId>
     <version>1.1</version>
     <packaging>pom</packaging>
-    <name>Project Build</name>
+    <name>ProjectBuild</name>
 
     <modules>
         <module>project</module>
